@@ -27,3 +27,8 @@ The tools main purpose is to allow you to create custom payloads in common file 
 2. Start creating tool templates
 3. Initialize the creation of version 0.1.1
 4. Perform initial testing in a lab environment (will post results in Github or website)
+
+
+# NOTE
+I know I definitely dropped the ball on this, tbh I haven't spent any time doing cybersecurity let alone coding so idk when this initial code publish will happen
+I'm very new to Python so this may be a project for later down the line
