@@ -11,7 +11,7 @@ The tools main purpose is to allow you to create custom payloads in common file 
 *If you are caught using this toolkit in a malicious manner I am not liable, you are, use common sense and make sure you have **written** permission before a penetration test.* 
 
 # Update
-I am happy to announce that I have been developing an executable building toolkit named **"ExecuPhish"**.
+I am happy to announce that I have been developing an executable building toolkit named **ExecuPhish**.
 
 Upon completion of the toolkit you will be able to create an executable with a few simple keystrokes!
 
